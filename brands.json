@@ -1,0 +1,542 @@
+[
+  {
+    "id": 89,
+    "brand": "ACURA",
+    "legacyCode": 95,
+    "friendlyUrl": "acura"
+  },
+  {
+    "id": 90,
+    "brand": "AGRALE",
+    "legacyCode": 3,
+    "friendlyUrl": "agrale"
+  },
+  {
+    "id": 91,
+    "brand": "ALFA ROMEO",
+    "legacyCode": 4,
+    "friendlyUrl": "alfa-romeo"
+  },
+  {
+    "id": 88,
+    "brand": "AM GEN",
+    "legacyCode": 1,
+    "friendlyUrl": "am-gen"
+  },
+  {
+    "id": 92,
+    "brand": "ASIA MOTORS",
+    "legacyCode": 5,
+    "friendlyUrl": "asia-motors"
+  },
+  {
+    "id": 168,
+    "brand": "ASTON MARTIN",
+    "legacyCode": 81,
+    "friendlyUrl": "aston-martin"
+  },
+  {
+    "id": 93,
+    "brand": "AUDI",
+    "legacyCode": 6,
+    "friendlyUrl": "audi"
+  },
+  {
+    "id": 180,
+    "brand": "BABY",
+    "legacyCode": 93,
+    "friendlyUrl": "baby"
+  },
+  {
+    "id": 94,
+    "brand": "BMW",
+    "legacyCode": 7,
+    "friendlyUrl": "bmw"
+  },
+  {
+    "id": 95,
+    "brand": "BRM",
+    "legacyCode": 8,
+    "friendlyUrl": "brm"
+  },
+  {
+    "id": 96,
+    "brand": "BUGGY",
+    "legacyCode": 9,
+    "friendlyUrl": "buggy"
+  },
+  {
+    "id": 97,
+    "brand": "BUGRE",
+    "legacyCode": 10,
+    "friendlyUrl": "bugre"
+  },
+  {
+    "id": 101,
+    "brand": "CADILLAC",
+    "legacyCode": 14,
+    "friendlyUrl": "cadillac"
+  },
+  {
+    "id": 98,
+    "brand": "CBT JIPE",
+    "legacyCode": 11,
+    "friendlyUrl": "cbt-jipe"
+  },
+  {
+    "id": 175,
+    "brand": "CHANA",
+    "legacyCode": 88,
+    "friendlyUrl": "chana"
+  },
+  {
+    "id": 99,
+    "brand": "CHANGAN",
+    "legacyCode": 12,
+    "friendlyUrl": "changan"
+  },
+  {
+    "id": 100,
+    "brand": "CHERY",
+    "legacyCode": 13,
+    "friendlyUrl": "chery"
+  },
+  {
+    "id": 102,
+    "brand": "CHRYSLER",
+    "legacyCode": 15,
+    "friendlyUrl": "chrysler"
+  },
+  {
+    "id": 103,
+    "brand": "CITROEN",
+    "legacyCode": 16,
+    "friendlyUrl": "citroen"
+  },
+  {
+    "id": 104,
+    "brand": "CROSS LANDER",
+    "legacyCode": 17,
+    "friendlyUrl": "cross-lander"
+  },
+  {
+    "id": 105,
+    "brand": "DAEWOO",
+    "legacyCode": 18,
+    "friendlyUrl": "daewoo"
+  },
+  {
+    "id": 106,
+    "brand": "DAIHATSU",
+    "legacyCode": 19,
+    "friendlyUrl": "daihatsu"
+  },
+  {
+    "id": 107,
+    "brand": "DODGE",
+    "legacyCode": 20,
+    "friendlyUrl": "dodge"
+  },
+  {
+    "id": 108,
+    "brand": "EFFA",
+    "legacyCode": 21,
+    "friendlyUrl": "effa"
+  },
+  {
+    "id": 109,
+    "brand": "ENGESA",
+    "legacyCode": 22,
+    "friendlyUrl": "engesa"
+  },
+  {
+    "id": 110,
+    "brand": "ENVEMO",
+    "legacyCode": 23,
+    "friendlyUrl": "envemo"
+  },
+  {
+    "id": 111,
+    "brand": "FERRARI",
+    "legacyCode": 24,
+    "friendlyUrl": "ferrari"
+  },
+  {
+    "id": 112,
+    "brand": "FIAT",
+    "legacyCode": 25,
+    "friendlyUrl": "fiat"
+  },
+  {
+    "id": 113,
+    "brand": "FIBRAVAN",
+    "legacyCode": 26,
+    "friendlyUrl": "fibravan"
+  },
+  {
+    "id": 114,
+    "brand": "FORD",
+    "legacyCode": 27,
+    "friendlyUrl": "ford"
+  },
+  {
+    "id": 169,
+    "brand": "FOTON",
+    "legacyCode": 82,
+    "friendlyUrl": "foton"
+  },
+  {
+    "id": 115,
+    "brand": "FYBER",
+    "legacyCode": 28,
+    "friendlyUrl": "fyber"
+  },
+  {
+    "id": 174,
+    "brand": "GEELY",
+    "legacyCode": 87,
+    "friendlyUrl": "geely"
+  },
+  {
+    "id": 116,
+    "brand": "GM - CHEVROLET",
+    "legacyCode": 29,
+    "friendlyUrl": "gm-chevrolet"
+  },
+  {
+    "id": 117,
+    "brand": "GREAT WALL",
+    "legacyCode": 30,
+    "friendlyUrl": "great-wall"
+  },
+  {
+    "id": 118,
+    "brand": "GURGEL",
+    "legacyCode": 31,
+    "friendlyUrl": "gurgel"
+  },
+  {
+    "id": 119,
+    "brand": "HAFEI",
+    "legacyCode": 32,
+    "friendlyUrl": "hafei"
+  },
+  {
+    "id": 120,
+    "brand": "HONDA",
+    "legacyCode": 33,
+    "friendlyUrl": "honda"
+  },
+  {
+    "id": 121,
+    "brand": "HYUNDAI",
+    "legacyCode": 34,
+    "friendlyUrl": "hyundai"
+  },
+  {
+    "id": 122,
+    "brand": "ISUZU",
+    "legacyCode": 35,
+    "friendlyUrl": "isuzu"
+  },
+  {
+    "id": 181,
+    "brand": "IVECO",
+    "legacyCode": 94,
+    "friendlyUrl": "Iveco"
+  },
+  {
+    "id": 123,
+    "brand": "JAC",
+    "legacyCode": 36,
+    "friendlyUrl": "jac"
+  },
+  {
+    "id": 126,
+    "brand": "JAGUAR",
+    "legacyCode": 39,
+    "friendlyUrl": "jaguar"
+  },
+  {
+    "id": 127,
+    "brand": "JEEP",
+    "legacyCode": 40,
+    "friendlyUrl": "jeep"
+  },
+  {
+    "id": 124,
+    "brand": "JINBEI",
+    "legacyCode": 37,
+    "friendlyUrl": "jinbei"
+  },
+  {
+    "id": 125,
+    "brand": "JPX",
+    "legacyCode": 38,
+    "friendlyUrl": "jpx"
+  },
+  {
+    "id": 128,
+    "brand": "KIA MOTORS",
+    "legacyCode": 41,
+    "friendlyUrl": "kia-motors"
+  },
+  {
+    "id": 132,
+    "brand": "LADA",
+    "legacyCode": 45,
+    "friendlyUrl": "lada"
+  },
+  {
+    "id": 129,
+    "brand": "LAMBORGHINI",
+    "legacyCode": 42,
+    "friendlyUrl": "lamborghini"
+  },
+  {
+    "id": 133,
+    "brand": "LAND ROVER",
+    "legacyCode": 46,
+    "friendlyUrl": "land-rover"
+  },
+  {
+    "id": 134,
+    "brand": "LEXUS",
+    "legacyCode": 47,
+    "friendlyUrl": "lexus"
+  },
+  {
+    "id": 130,
+    "brand": "LIFAN",
+    "legacyCode": 43,
+    "friendlyUrl": "lifan"
+  },
+  {
+    "id": 131,
+    "brand": "LOBINI",
+    "legacyCode": 44,
+    "friendlyUrl": "lobini"
+  },
+  {
+    "id": 135,
+    "brand": "LOTUS",
+    "legacyCode": 48,
+    "friendlyUrl": "lotus"
+  },
+  {
+    "id": 138,
+    "brand": "MAHINDRA",
+    "legacyCode": 51,
+    "friendlyUrl": "mahindra"
+  },
+  {
+    "id": 139,
+    "brand": "MASERATI",
+    "legacyCode": 52,
+    "friendlyUrl": "maserati"
+  },
+  {
+    "id": 140,
+    "brand": "MATRA",
+    "legacyCode": 53,
+    "friendlyUrl": "matra"
+  },
+  {
+    "id": 141,
+    "brand": "MAZDA",
+    "legacyCode": 54,
+    "friendlyUrl": "mazda"
+  },
+  {
+    "id": 183,
+    "brand": "MCLAREN",
+    "legacyCode": 2,
+    "friendlyUrl": "mclaren"
+  },
+  {
+    "id": 142,
+    "brand": "MERCEDES-BENZ",
+    "legacyCode": 55,
+    "friendlyUrl": "mercedes-benz"
+  },
+  {
+    "id": 143,
+    "brand": "MERCURY",
+    "legacyCode": 56,
+    "friendlyUrl": "mercury"
+  },
+  {
+    "id": 136,
+    "brand": "MG",
+    "legacyCode": 49,
+    "friendlyUrl": "mg"
+  },
+  {
+    "id": 137,
+    "brand": "MINI",
+    "legacyCode": 50,
+    "friendlyUrl": "mini"
+  },
+  {
+    "id": 144,
+    "brand": "MITSUBISHI",
+    "legacyCode": 57,
+    "friendlyUrl": "mitsubishi"
+  },
+  {
+    "id": 145,
+    "brand": "MIURA",
+    "legacyCode": 58,
+    "friendlyUrl": "miura"
+  },
+  {
+    "id": 146,
+    "brand": "NISSAN",
+    "legacyCode": 59,
+    "friendlyUrl": "nissan"
+  },
+  {
+    "id": 147,
+    "brand": "PEUGEOT",
+    "legacyCode": 60,
+    "friendlyUrl": "peugeot"
+  },
+  {
+    "id": 148,
+    "brand": "PLYMOUTH",
+    "legacyCode": 61,
+    "friendlyUrl": "plymouth"
+  },
+  {
+    "id": 149,
+    "brand": "PONTIAC",
+    "legacyCode": 62,
+    "friendlyUrl": "pontiac"
+  },
+  {
+    "id": 150,
+    "brand": "PORSCHE",
+    "legacyCode": 63,
+    "friendlyUrl": "porsche"
+  },
+  {
+    "id": 177,
+    "brand": "RAM",
+    "legacyCode": 90,
+    "friendlyUrl": "ram"
+  },
+  {
+    "id": 170,
+    "brand": "RELY",
+    "legacyCode": 83,
+    "friendlyUrl": "rely"
+  },
+  {
+    "id": 151,
+    "brand": "RENAULT",
+    "legacyCode": 64,
+    "friendlyUrl": "renault"
+  },
+  {
+    "id": 171,
+    "brand": "ROLLS-ROYCE",
+    "legacyCode": 84,
+    "friendlyUrl": "rolls-royce"
+  },
+  {
+    "id": 152,
+    "brand": "ROVER",
+    "legacyCode": 65,
+    "friendlyUrl": "rover"
+  },
+  {
+    "id": 154,
+    "brand": "SAAB",
+    "legacyCode": 67,
+    "friendlyUrl": "saab"
+  },
+  {
+    "id": 155,
+    "brand": "SATURN",
+    "legacyCode": 68,
+    "friendlyUrl": "saturn"
+  },
+  {
+    "id": 156,
+    "brand": "SEAT",
+    "legacyCode": 69,
+    "friendlyUrl": "seat"
+  },
+  {
+    "id": 167,
+    "brand": "SHINERAY",
+    "legacyCode": 80,
+    "friendlyUrl": "shineray"
+  },
+  {
+    "id": 166,
+    "brand": "SMART",
+    "legacyCode": 79,
+    "friendlyUrl": "smart"
+  },
+  {
+    "id": 153,
+    "brand": "SSANGYONG",
+    "legacyCode": 66,
+    "friendlyUrl": "ssangyong"
+  },
+  {
+    "id": 157,
+    "brand": "SUBARU",
+    "legacyCode": 70,
+    "friendlyUrl": "subaru"
+  },
+  {
+    "id": 158,
+    "brand": "SUZUKI",
+    "legacyCode": 71,
+    "friendlyUrl": "suzuki"
+  },
+  {
+    "id": 159,
+    "brand": "TAC",
+    "legacyCode": 72,
+    "friendlyUrl": "tac"
+  },
+  {
+    "id": 160,
+    "brand": "TOYOTA",
+    "legacyCode": 73,
+    "friendlyUrl": "toyota"
+  },
+  {
+    "id": 161,
+    "brand": "TROLLER",
+    "legacyCode": 74,
+    "friendlyUrl": "troller"
+  },
+  {
+    "id": 163,
+    "brand": "VOLVO",
+    "legacyCode": 76,
+    "friendlyUrl": "volvo"
+  },
+  {
+    "id": 162,
+    "brand": "VW - VOLKSWAGEN",
+    "legacyCode": 75,
+    "friendlyUrl": "vw-volkswagen"
+  },
+  {
+    "id": 164,
+    "brand": "WAKE",
+    "legacyCode": 77,
+    "friendlyUrl": "wake"
+  },
+  {
+    "id": 165,
+    "brand": "WALK",
+    "legacyCode": 78,
+    "friendlyUrl": "walk"
+  }
+]
