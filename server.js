@@ -28,7 +28,7 @@ app.get('/brand', (req, res) => {
 })
 
 app.get('/health', (req, res) => {
-    res.send({status: 'OK', code: '200'})
+    res.send({status: 'OK', code: '200'})        
 })
 
 app.post('/brand', function (req, res) {
