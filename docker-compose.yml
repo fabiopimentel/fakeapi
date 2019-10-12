@@ -1,10 +1,7 @@
 version: '3'
-
 services:
-  fakeapi:
-    image: node:8
+  api:
     build: .
     container_name: fakeapi
-    #registry.olxbr.io:5000/upr/fakeapi:latest
     ports:
       - "3031:3031"
